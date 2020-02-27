@@ -2,6 +2,7 @@
   This service will generate the list of Sports brands which are popular in the market. 
   
   related Microservice: https://github.com/nikhilz/Project-2-edge-service
+  
   Eureka Server: https://github.com/nikhilz/EurekaServer2
   
   
